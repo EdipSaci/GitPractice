@@ -1,4 +1,4 @@
-package pac1;
+package pac2;
 
 public class Test5 {
 }
